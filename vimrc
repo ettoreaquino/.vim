@@ -9,6 +9,9 @@ filetype off
 " Turn on syntax highlighting
 syntax on
 
+" Dracula theme colors "
+color dracula
+
 " For plugins to load correctly
 filetype plugin indent on
 
